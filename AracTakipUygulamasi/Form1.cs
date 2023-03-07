@@ -99,8 +99,6 @@ public partial class Form1 : Form
 
     }
 
-
-
     private void pbAvatar_Click(object sender, EventArgs e)
     {
         dosyaAc.Title = "Bir fotoðraf dosyasý seçiniz";
