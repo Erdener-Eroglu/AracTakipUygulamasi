@@ -110,7 +110,7 @@
             lstAraclar.Location = new Point(44, 181);
             lstAraclar.Name = "lstAraclar";
             lstAraclar.Size = new Size(150, 304);
-            lstAraclar.TabIndex = 2;
+            lstAraclar.TabIndex = 9;
             lstAraclar.SelectedIndexChanged += lstAraclar_SelectedIndexChanged;
             // 
             // cmsSil
@@ -211,7 +211,7 @@
             cmbYakıt.Location = new Point(323, 209);
             cmbYakıt.Name = "cmbYakıt";
             cmbYakıt.Size = new Size(151, 28);
-            cmbYakıt.TabIndex = 11;
+            cmbYakıt.TabIndex = 5;
             // 
             // label6
             // 
@@ -238,7 +238,7 @@
             cmbVites.Location = new Point(323, 247);
             cmbVites.Name = "cmbVites";
             cmbVites.Size = new Size(151, 28);
-            cmbVites.TabIndex = 14;
+            cmbVites.TabIndex = 6;
             // 
             // Form1
             // 
