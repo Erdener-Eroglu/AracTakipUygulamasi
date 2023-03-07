@@ -120,7 +120,6 @@ public partial class Form1 : Form
             pbAvatar.Image = new Bitmap(_memoryStream);
         }
     }
-
     private void btnGuncelle_Click(object sender, EventArgs e)
     {
         _seciliArac.Marka = txtMarka.Text;
